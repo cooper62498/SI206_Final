@@ -1,6 +1,5 @@
 import sqlite3
 import google_api
-import skiresortinfo
 import yelp
 import opensnow
 
